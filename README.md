@@ -1,11 +1,13 @@
 
-![Screenshot (215)](https://github.com/user-attachments/assets/fc736825-e267-45b6-98b3-c771c2a6808f)
-![Screenshot (214)](https://github.com/user-attachments/assets/045302c1-ffdf-48b4-966a-a475f2f4ad1a)
-![Screenshot (213)](https://github.com/user-attachments/assets/24eac3b0-85b7-4a70-af6a-f35bb69e48d1)
-![Screenshot (212)](https://github.com/user-attachments/assets/4b461d95-7e88-4304-b316-41241943d50e)
-![Screenshot (216)](https://github.com/user-attachments/assets/3e3ee2fb-032a-41ec-a82f-13516f8fb389)
+![Screenshot (212)](https://github.com/user-attachments/assets/bbb7eb8e-2518-4983-8ff8-136c3c836b10)
+![Screenshot (213)](https://github.com/user-attachments/assets/fc528fc5-e89e-43d1-8050-2029cace7983)
+![Screenshot (214)](https://github.com/user-attachments/assets/005c8fb2-d75d-4071-ab5c-1878a8ccd7ba)
+![Screenshot (215)](https://github.com/user-attachments/assets/853a2e1b-5bd1-4378-bcf1-80ffcd658d99)
+![Screenshot (216)](https://github.com/user-attachments/assets/32414606-57ef-48b2-a37e-aa4e779cfc62)
+
 
 **Word-searcher**
+
 Imports:
 
 The script imports necessary modules such as tkinter for GUI creation and messagebox for displaying messages. Tkinter Setup:
